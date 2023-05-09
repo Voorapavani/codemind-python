@@ -1,3 +1,3 @@
 p,t,r=map(int,input().split())
-s=(p*t*r)/100
-print("%d"%s)
+a=(p*t*r)/100
+print("%d"%a)
