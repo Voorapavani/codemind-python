@@ -5,4 +5,3 @@ if b.is_integer():
     print('True')
 else:
     print('False')
-   
